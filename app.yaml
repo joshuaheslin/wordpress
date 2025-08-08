@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: wordpress
+owner: joshuaheslin
+package: .
